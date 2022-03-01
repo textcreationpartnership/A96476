@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A challenge sent to Master E. B. a semi-separatist from the Church of England. Now published by the author, J. W.</title>
+            <author>Wilcock, James, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96476</idno>
+            <idno type="STC">Wing W2117</idno>
+            <idno type="STC">Thomason E131_22</idno>
+            <idno type="STC">ESTC R22968</idno>
+            <idno type="EEBO-CITATION">99871874</idno>
+            <idno type="PROQUEST">99871874</idno>
+            <idno type="VID">156340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156340)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A challenge sent to Master E. B. a semi-separatist from the Church of England. Now published by the author, J. W.</title>
+                  <author>Wilcock, James, d. 1662.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>To the reader signed: J. W.</note>
+                  <note>J. W. = James Wilcock.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bright, Edward --  Early works to 1800.</term>
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156340:1" rendition="simple:additions"/>
+            <p>A CHALLENGE Sent to Maſter <hi>E. B.</hi> A Semi-Separatiſt From the Church of ENGLAND.</p>
+            <p>Now publiſhed by the Author, <hi>J. W.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1 PET. 3.15, 16.</hi>
+               </bibl>
+               <p>Be ready alwayes to give an anſwer, to every man that asketh you a reaſon, of the hope that is in you, with meekneſſe and re<g ref="char:EOLhyphen"/>verence.</p>
+               <p>Having a good conſcience, that when they ſpeak evill of you, as of evill doers, they may be aſhamed which ſlander your good converſation in Chriſt.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed <hi>Anno Dom.</hi> 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:156340:2"/>
+            <pb n="3" facs="tcp:156340:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is now three quarters of a yeer ſince I had a Paro<g ref="char:EOLhyphen"/>chiall charge committed unto me; My firſt coming unto them was, according to my commiſſion with <hi>Peace be to this Houſe;</hi> but I found a multitude of them, <hi>De ſit in bac mibi parte fides, nec credite factum,</hi> Which made them ready to battell. I will not tell thee what fierce ſpirits they were, how before they had known, either good or evill by me, They did begin to threaten to ſpend, ſome 200 <abbr>l,</abbr> others all that they were worth; ſince 500 <abbr>l,</abbr> and if that would not effect it, a 1000 <abbr>l</abbr> ſhould not be ſpared, but they would remove me. Then did they diſcharge againſt me, whole vollies of opprobrious ſpeeches, whereby my credit and eſtimation was made to bleed, my miniſtery diſparaged, my calling ſcandalized and diſgraced; and but that God hath ſet an hedge about me, my Perſon had been expoſed to the invaſion of inſolent zeal, and ungoverned fury. Why ſhould I report, how I am mocked by boyes, ſcorned by children, judged unworthy of any place in the miniſtery, by ſuch whoſe Academy was never other then a ſhop, &amp; their learning borrowed from a Loom. Alas, how many of my Brethren, who have all their life time flamed like Beacons on theſe Hills, <hi>ſunt p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſi graviora,</hi> and ſate down with ſilence! yet my condition is worſe then theirs: Such blaſts make them but ſhine the brighter, but are enough to put my candle out: beſides they have been men of warre from their youth, but I am but a ſtripeling: And that which makes it more intolerable to me, I never cruſht with <hi>Hercules</hi> a Serpent in my cradle, but have untill this time been a
+<pb n="4" facs="tcp:156340:3"/>ſtranger unto ſtrife, and now am forced at firſt to grapple with an <hi>Hydra.</hi> It was my reſolution to have overcome this violence with patience, hoping it could not have held out ſo long, ſince no Intelligence, muchleſſe any that is Divine can move them in it; and that like a boyling pot, the liquor would have either run over, and quencht the fire which heated them, or have been conſumed, leaving them in the bottome nothing but repentance. But I finde it is not only my firſt reach which hath proved boy<g ref="char:EOLhyphen"/>ſterous, but a tempeſt is threatned me thorough out my whole paſſage; Nature hath not made me a ſhore, nor ſtrength of friends a wall, to be able to reſiſt it. It is my ſilence hath made them ſo inſolent, and my patience hath concluded me for impotent, and cowardly: yet is not my complaint intended againſt theſe: They are too low to batter my reſolutions with injuries, nor, were I ten times more provoked, would I take up armes againſt them, whom I have received to carry in mine armes. They are but ſedu<g ref="char:EOLhyphen"/>ced, and deſerve to be pittied, that I may not ſay deſpiſed. There is a Maſter <hi>B.</hi> in their hive, whom they follow like ſwarms, with whom I would enter into the liſts. He is one who pretends himſelf to be ſent among them from God, as <hi>Simon Magus</hi> did, and yet hath nothing but an Enthuſiaſme of his own brain to ſhew for it, and they cry him up for ſome great power,</p>
+            <q>
+               <l>— Et quis velle recuſet</l>
+               <l>Os populi meruiſſe?<note place="margin">Perſ.</note>
+               </l>
+            </q>
+            <p>His faith and zeal, are the wings on which he flyes, and I will boldly ſay it, they are both of them, but preſumption and paſſi<g ref="char:EOLhyphen"/>on: I will appeal to thy judgement Chriſtian Reader, if I ſpeak without juſt grounds. I have many credible Authors which will maintain, that his conſtant prayers and preachings which he hath at a neighbour Pariſh Church, have been commendations of himſelf, and declamations againſt me. Indeed he palliates them under the glorious title of Chriſt and his Kingdom; as if my Church were the ſeat of Antichriſt, or if there can be worſe; ſo it hath been called, the divells Church, againſt which he pro<g ref="char:EOLhyphen"/>claims warre: Nor do I much marvell at that, ſince the whole Liturgy, and the Government of the Church of <hi>England,</hi> of which mine is a member, is with many of them no better. For mine own particular, I will juſtifie my ſelf againſt all that dare
+<pb n="5" facs="tcp:156340:3"/>accuſe me, that I never brought in any thing of that, in the leaſt appearance, which they can rightly call innovation; nor ever preſt upon them any thing in the performing of my ſervice, which might ſtand with my obedience to unqueſtioned authority, to have diſpenſed withall. If I have erred in matter of Ceremony, it was only in this wiſh, that ſome of the innocent ones might undeſervedly be ſacrificed unto their fury. What their other exceptions are againſt me, I am ſo farre from petitioning their charity to cover, that with a reſervation to malice and envy, I ſhall make it my ſuite to have them proclaimed. This is ſomewhat a digreſſion, I return unto thee, Chriſſian Reader. It was my deſire to try the truth of theſe reports, and to be confirmed by being an ear-witneſſe of him my ſelf: I heard of his preaching at a private Faſt, which (the place being a Church,) the Congre<g ref="char:EOLhyphen"/>gation of divers Pariſhes may intitle publike. I cannot tell how well Authority may relliſh it: I was one in the Afternoon; I joyned with him in prayer, till I was fain to act a Separatiſt in ſpirit, &amp; betake me to my private prayers, that God would bleſſe, though they did curſe, and not turn their prayer into ſin unto them. Nor was his temper better in his preachings: That which I will only mention, is this, That the chiefeſt ſtreams of his whole diſcourſe were a perverting of Scriptures, and a wreſting of ſuch Texts, which did denounce Judgements immediately againſt the Babylonians and Edomites, thoſe grand enemies of the Church of God, and applying them againſt his brethren: (if ſo be, we which are the ſonnes of the Church of <hi>England,</hi> and do not ſeparate with them from its Communion, may call our ſelves ſo) and thoſe he did preſſe with ſo much eagerneſſe, and violence, as did diſcover unto many that were preſent, the fountain of his zeal to be both ſalt and bitter. Nor <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I be miſtaken in my ap<g ref="char:EOLhyphen"/>prehenſion, this one thing is enoug<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to confirm me, which is common in the mouthes of many of h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> diſciples; That ſo many prayers and tears, which both in publi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and private, the Saints of God have powred out againſt me, muſt needs be heard; That it is impoſſible I ſhould continue long in my place; and that God will work a miracle, but I ſhall be removed. <hi>Tantae ne animis coeleſtibus Irae?</hi> I never yet now learned any cauſe of all, but this; becauſe I was not called by them unto my place: The will of the
+<pb n="6" facs="tcp:156340:4"/>Lord be done; but let not them have their deſire, leſt they be too proud.</p>
+            <p>But leſt I ſhould tyre thee Chriſtian Reader, with a private ſtory, concerning my ſelf; I will now tell thee the cauſe of my coming abroad. This Maſter <hi>B.</hi> whom my Pariſhioners follow in ſwarms, ſometimes to other Churches moſt commonly to private Conventicles, is the Maſter of a faction: I may truly ſay of him, as Saint <hi>Auſtin</hi> did of two principall Leaders, <hi>Primianus</hi> and <hi>Maximianus,</hi> That <hi>Primianus</hi> had been <hi>Poſtremianus,</hi> and <hi>Maxi<g ref="char:EOLhyphen"/>mianus</hi> had been <hi>Minimianus;</hi> ſo h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Bright</hi> been dark, and his name been buried in obſcurity, if with <hi>Theuas</hi> and <hi>Judas</hi> of <hi>Galilee,</hi> by boaſting of himſelf to be ſome body, he had not drawn away much people after him.</p>
+            <p>It cannot but be a grievous eye-ſore, to have <hi>Lupum in fabula,</hi> ſo buſie in my flock. It was my deſire at firſt, fairly to expoſtulate with him my iuſt exceptions againſt him; but I found him altoge<g ref="char:EOLhyphen"/>ther unfit for conference, by reaſon of his impediment in hearing.</p>
+            <q>
+               <l>Magiſter artis Ingeniique largitor</l>
+               <l>Venter, non babet aures.</l>
+            </q>
+            <p>But then I received from his own mouth theſe words, That in all matters belonging not only to the ſubſtance, but to the Ceremony of Gods ſervice, there muſt be an affirmative precept immediate<g ref="char:EOLhyphen"/>ly commanding them, or that they were not to be admitted; which ſeemed to reliſh much of the Saints belief,<note place="margin">
+                  <hi>Turners</hi> Creed.</note> and gave me ſufficient matter of expoſtulating with him by writing, which I did the ſame day in Latine: Whereunto he returned me this ſhort reply, That he would neither receive, nor anſwer any Letter. I leave it to thy judgement, Chriſtian Reader, Whether for the matter, or manner of it, I did deſerve to be ſo deſpiſed; yet did I not deſiſt, every day I received ſome juſt exceptions againſt him; the impudency of many of his followers in ſulting over me, and the weakneſſe of many of my Pariſhioners; for whom I was affraid, complaining of him.</p>
+            <p>I writ unto him certain queſtions in the nature of a Challenge in the Engliſh tongue, containing ſome few of our juſt grievan<g ref="char:EOLhyphen"/>ces, and deſiring ſatisfaction from him. After a quarter of a yeers expectation of his anſwer, I received this; That he cared not for me, nor any of my notes. Theſe are they which I do
+<pb n="7" facs="tcp:156340:4"/>now ſhew unto the world; If it be his pride, I deſpiſe it; if his policy, I detect it; if his ignorance, I pitty it. There is nothing in them worthy to be publiſhed, nor were they ever intended for any ſuch purpoſe. My deſire in doing of it, is this, That he may either defend his poſitions in publique, that there may be no walking craftily amongſt us or elſe deſert them: either of theſe wayes, our integrity ſhall be made known, as becomes the Mi<g ref="char:EOLhyphen"/>niſters of the Goſpel. If I be convinced of any falſehood, I ſhall with more patience ſubmit to the ſhame of the world, then I can to be thus contemned in my place by him, and thorough his means.</p>
+            <p>I have now vented, be the event what it will. I am confident there cannot be more danger in my ſpeech, then hath been pain in my ſilence. Let me have but thy Chriſtian Cenſure, if I do deſerve it, and I ſhall reſt moſt thankfully</p>
+            <closer>
+               <signed>Thine in him, By whom I am, <hi>J. W.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:156340:5"/>
+            <head>Domine in Domino Dilecte,</head>
+            <p>
+               <seg rend="decorInit">M</seg>Allem te ſcribendo quam loquendo convenire, hinc enim &amp; tuae infirmitati ratio babebitur, &amp; meo Sermoni; Latine autem ſcribo potiſſimum, tum ut brevior fiat &amp; dilucidior oratio, &amp; ut nullum babeam judicem praeter literatum. Quaeſtio à no<g ref="char:EOLhyphen"/>bis nuper incaepta fuit circa obedientiam in rebus ad religionem pertinentibus; Praeceptum tu divinum, affirmativum, immediatum, in verbo Scriptum aliquod poſtulaere videbare, aut in praeſtanda obedientia non ſatisfactum iri tenerae aliquorum con<g ref="char:EOLhyphen"/>ſcientiae. Quod ſi in omnibus flagitare perſeveres &amp; indifferentiam omnem &amp; Magiſtratus poteſtatem eadem opera tolles. Vide quae ſo, quae &amp; quanta neges. Primam, mandatum Divinum affirmativum, red<g ref="char:EOLhyphen"/>dendo neceſſariam, tollit; Secundam, nihil relinquendo quod Ma<g ref="char:EOLhyphen"/>giſtratus praecipiat; quid enim ſi hic imperet, quod deus ſuo verbo prius imperavit, noſti hominum reſponſum, Non propter tuum dictum credimus, ſed quia ipſum (Chriſtum) audivimus; aliud nihil con<g ref="char:EOLhyphen"/>tra, ſive praeter, quod ad obedientiam teneros obliget, illi permittitur: hoc enim mihi videtur ſine dubio verum, non deberi illi obedientiam, in qua praeſtanda non poteſt ſatisfieri conſcientiae. Non circa rem civi<g ref="char:EOLhyphen"/>lem ſed religioſam diſputo; hanc item, non ad articulos fidei, aut internum dei cultum pertinentem, aut ipſum cultum omnino intelligo; ſed rebus gerundis deo non repugnantibus, exteriori religionis parti, formae, ordini, decori ſub ſervientem. Locos quibus &amp; Magiſtratus poteſtas ſuffulcitur, &amp; Chriſtianorum obedientia propter conſcientiam ipſam imperatur, babes ad Rom. c. <hi>13.</hi> &amp; apud <hi>1</hi> Pet. c. <hi>2.</hi> v. <hi>13.</hi> Mitto quod nonnulli audent obſtrepere, ad res tantum civiles illos ſpectare, quaſi nimis inſulſum, &amp; Catholicis non approbatum, quod tu quoque for ſan non negabis: ubi autem Civili tantum Magiſtratui obedientiam deberi inde concludi ſtatuis, vide ne poteſtatem omnem Eccleſiaſticam e medio tollere videaris; &amp; propriam, viz excommuni<g ref="char:EOLhyphen"/>cationem, &amp; delegatam ſeu politicam; deinde miror quo Argumento fretus, tranſmarinas Eccleſias, quas non parvi pendis, ſtabilibis,
+<pb n="9" facs="tcp:156340:5"/>Se eas omni poteſtate ſpoliaveris. Fruſtra item, dictum foret, Dic ec<g ref="char:EOLhyphen"/>cleſiae, ſi illius quam ſeniorum conſeſſum ipſe vocat Calvinus, nulla eſſet Authoritas. Qui ad Civiles id aetatis ordinationes, locum ap<g ref="char:EOLhyphen"/>plicare videtur Beza, cedo quemvis arbitrum, num temporale fa<g ref="char:EOLhyphen"/>ciens pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ceptum, ſolas eas intelligit; quae tu quae ſo arte Logica <g ref="char:V">Ʋ</g>niverſale affirmativum, Subjecti eſto te <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, facies indefinitum. Eſto autem, quod dum concedimus noſtro jure cedimus, civilem tantum deſignari Magiſtratum; ſibi videat Romanus Pon<g ref="char:EOLhyphen"/>tifex; noſtrum nihil intereſt, apud quos ſola valet, &amp; ſemper valeat poteſtas regia; omnis qualiſcunque ſit ſecundi vel tertii ordinis au<g ref="char:EOLhyphen"/>thoritas, ab illo ſive a capite tenet, ejus ſolius majeſtas in omnibus illucet; iiſne omnibus, redi obſecro ad rem ipſam, qui ab illo mittun<g ref="char:EOLhyphen"/>tur, obedientia ſit pra ſtanda, vel non? Si non, reſponde Petro ibid. v. <hi>14.</hi> ſin alias, hem tibi locum cui acquieſcat conſcientia; noli ex<g ref="char:EOLhyphen"/>pectare aliud praeceptum poſitivum divinum, ne ut repetam, &amp; pote<g ref="char:EOLhyphen"/>ſtatem &amp; obedientiam ſubvertas. Vereor ne taedio tibi ſim. Tenerae conſcientiae non tuae cauſam agis: Age, vel tenerrimam hinc ſtabilire potes; credat? non poteſt: nolet potius dixiſſes: utrumque vitio ſuo factum, vel naturali vel acquiſito: paeniteat? hoc nolit, nondum ſe peccaſſe ſenfit; doceo contra legem divinam &amp; humanam, ſi hoc ſit peccatum: ſecundo manifeſto contradicitur, &amp; in ea primae. Verum dubitat ne peccet; &amp; eo dupliciter peccat. <hi>1<hi rend="sup">o</hi>.</hi> Scrupuloſa dubitatione circa rem lege ſtabilitam, deo non repugnantem, in qua vel teſte Cice<g ref="char:EOLhyphen"/>rone, ineſt facinus. Off<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. l. <hi>3. 2<hi rend="sup">o</hi>.</hi> Neglecta vel contempta, quae ei debita fuit obedientia. Quis ferre poteſt quemquam adhuc regerentem, indeterminatam ſuam opinionem legi ſtabilitae &amp; determinatae eſſe praeferendam? Laudo fidem quae ante credit obſervandum eſſe quam didicit in quit Tertul. de cor. c. <hi>2.</hi> Det deus ut omnes unum ſtudea<g ref="char:EOLhyphen"/>mus &amp; ſentiamus, omni malitia, omni contentione, omni praejudicio valedictis, In unum corpus Christi myſticum coaleſcamus; neli judicare ante tempus, paveas ne pereas, quod &amp; ipſe deo juvante ſequar</p>
+            <closer>
+               <signed>Qui tuus ſum in Chriſto. <hi>J. W.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="10" facs="tcp:156340:6"/>
+            <head>Certain Queſtions of no mean Conſequence propoun<g ref="char:EOLhyphen"/>ded to M<hi rend="sup">r</hi> 
+               <hi>Edward Bright,</hi> to which the Author partly for his own ſatisfaction, and the Conſciences of many which are juſtly offended doth Demand a ſpeedy anſwer, or is ready, to prove him a falſe reporter of God, a Seducer of ſouls, a Blaſphemer of the Church of <hi>England,</hi> a Time<g ref="char:EOLhyphen"/>ſerver, one that maketh gain godlineſſe, and Merchan<g ref="char:EOLhyphen"/>dizeth the Word of God.</head>
+            <p n="1">1. WHether you do think, that you are bound in Con<g ref="char:EOLhyphen"/>ſcience (according to the precept of Saint <hi>Peter,</hi> 1 <hi>Pet.</hi> 3.15. <hi>Be ready alwayes to give an anſwer to every man that asketh you a reaſon of the hope, that is in you, with meek<g ref="char:EOLhyphen"/>neſſe and reverence,</hi> Verſ. 16. <hi>Having a good conſcience, that when they ſpeak evill of you, as of evil doers, they may be aſhamed which ſlander your good converſation in Chriſt:</hi> And alſo the pattern of Saint <hi>Paul, Acts</hi> 28.22. <hi>Who upon the like requeſt made no more adoe, but preſently appointed a day for the performing of it</hi>) to give ſome reaſonable ſatisfaction to their juſt demands, which take them<g ref="char:EOLhyphen"/>ſelves to be offended at ſome of your bold affirmations which both, publikely and privately you have not ſhamed to deliver; which have tended only to the ſeducing of many ignorant, though well affected ſouls from their duty of Obedience, to the ſhaking of their Faith, and weakning their Religion, which they have been taught and iuſtructed in, in the Church of <hi>England,</hi> to the kind<g ref="char:EOLhyphen"/>ling the Coales of hatred and ſeparation among their Brethren, to the ſounding of the Trumpet to ſedition and rebellion. Which I premiſe upon theſe conſiderations, following;</p>
+            <pb n="11" facs="tcp:156340:6"/>
+            <p>Firſt, Out of fear leſt you ſhould refuſe it, having done the like already to a letter which I wrote unto you in Latine, becauſe of your impediment in hearing; whereby I found you unfit for any conference, which you returned me again with this ſhort reply, That you would neither receive, nor anſwer any; which ſeemed unto me contrary to the ingenuity of a Scholler, and the Diſcipline of a Miniſter, being it contained a religious diſpute concerning Obedience, How far an ignorant mans conſcience might be ſatisfied in performing it to Laws Eccleſiaſticall; and ſavoured either of pride, that you would not, or of ignorance, that you could not, or of underhand dealing, and moſt perniti<g ref="char:EOLhyphen"/>ous policy, that you durſt not anſwer it, leſt one way or other you had betrayed your ſelf unto the ſtate, or been deſerted of your Diſciples.</p>
+            <p>Secondly, Out of hope, that if you do it ſubſtantially and faithfully as you ought, it will confirm your followers in thoſe opinions, they have ſuckt from you, in which they cannot walk doubtfully without danger to their ſouls; or if ſimply and ſloven<g ref="char:EOLhyphen"/>ly, as I expect you ſhould in ſo bad a cauſe, it will releaſe them from the bonds of their captivity, under which your counterfeit holineſſe, Hypocriticall zeal, forged inſinuations have hitherto holden them, that they may return to their ancient liberty of conſcience, and to the right path of Obedience.</p>
+            <p>And thirdly, We for our parts ſhall from thenceforth ceaſe to think or ſpeak evill of your ſect, or as you aſſume it, to ſlander your godly converſation, for if you prove them, our mouthes ſhall be ſtopped; but if you fail in that, our ſayings ſhall be found true and no ſlander.</p>
+            <p n="2">2. Whether you do beleeve that the religion of the Church of <hi>England,</hi> is the true Orthodox Religion, and in all the Articles of Doctrine, agreeable to the Word of God; becauſe you have been heard to ſay in the Pulpit, that now was the time to change their Religion; by which ſaying you muſt either prove our Re<g ref="char:EOLhyphen"/>ligion to be falſe, or your ſelf a ſeducer of ſouls from the truth.</p>
+            <p n="3">3. Whether you do hold, that any of the Ceremonies of the Church of <hi>England,</hi> which have been by unqueſtionable Autho<g ref="char:EOLhyphen"/>rity commanded to be uſed in the ſervice of God, be Idolatrous,
+<pb n="12" facs="tcp:156340:7"/>or a worſhipping of <hi>Baal,</hi> (for you have implyed as much, when you ſaid of the Defenders of them after an ignominious manner, Let <hi>Baal</hi> plead for himſelf;) which if you dare avouch, I demand farther, Whether they were not Idolatry ten yeers agoe, as much as now; and if then, Whether you by practiſing of them, were not an Idolatrous Prieſt, and by holding of your peace, and not crying our againſt them untill now, a cunning diſſembling Ido<g ref="char:EOLhyphen"/>later, when as neither fear, nor favour ſhould have ſtopped your mouth, or reſtrained you from crying out againſt ſuch a crime: and if you impute it (as ſome of your followers) to the times of your Ignorance, Whether did you not take your ſelf to have had your calling to the Miniſtery from God, before theſe yeers laſt paſt; and if you do, whether ſuch aſin can ſtand with ſuch a calling: And whether now you be deſervedly counted ſo holy a man, ſo faithfull a Preacher as the people cry you up for, having formerly been ſo odious an Idolater, and not yet acted your re<g ref="char:EOLhyphen"/>pentance upon the ſtage of the world, as ſuch a crime doth re<g ref="char:EOLhyphen"/>quire, nor been abſolved by any Church, nor reſtored again un<g ref="char:EOLhyphen"/>to your Miniſtery, as the Ancient Canon doth command: If you deny that ever in your Judgement the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was any Idolatry in them, there are multitudes of your diſciples will have the better opinion of them, and of the Church that enjoynes them; but the worſe of you; reſerve not your determination till the times ſhall be more open for you, but as becomes a Chriſtian Miniſter of Gods Word, and one that it behoves to be reſolute againſt fear or flattery, tell us plainly what we may truſt to, to be your opinion.</p>
+            <p n="4">4. Whether do you hold, that Biſhops are Antichriſtian, and that the order of Epiſcopacy is the ſpirit of Antichriſt; which ſome of your faction have in their Pulpits affirmed, and unto which affirmation, Whether have not you among many others, which are reported to have done it, ſolemnly, and ſecretly entred into a combination, that you will never conſent unto that Go<g ref="char:EOLhyphen"/>vernment again; And what do you think of all the Chriſtian Churches which have been for 1500 yeers under that Govern<g ref="char:EOLhyphen"/>ment; and whether were thoſe ancient Biſhops of the Primitive times, and thoſe of our Church in Queen <hi>Maries</hi> dayes, Martyrs
+<pb n="13" facs="tcp:156340:7"/>for Chriſt or no; and whether Antichriſt could dye for Chriſt, or thoſe be ſaved themſelves, having not firſt put off their Anti<g ref="char:EOLhyphen"/>chriſtian calling, or could they be ſaved thorow ignorance, ha<g ref="char:EOLhyphen"/>ving not repented them of their being in ſuch an order; for either they did know it to be a ſin, or did not know it: if the firſt, why did they not publikely confeſſe and repent? if the ſe<g ref="char:EOLhyphen"/>cond, how could they?</p>
+            <p n="5">5. Whether do you hold, that your juſtifying your ſelves, and condemning of your Brethren, doth ſtand with the charity of a Diſciple of Chriſt, or rather the vain-glory of a Phariſee, ſince the Apoſtle ſaith, 2 <hi>Cor.</hi> 10.7. <hi>If any man truſt in himſelf, that he is Chriſts, let him conſider this again of himſelf, that as he is Chriſts, even ſo are we Christs;</hi> have you by any Divine Law, Commiſſion to judge others, which ſtand or fall to their own Maſter; or to ſever the Wheat from the Tares, ſeeing it is our Maſters Command, that both be let grow together untill Har<g ref="char:EOLhyphen"/>veſt, when he will appoint his Angels to do it? or to diſſubject (as you call it) any one from Chriſt? And becauſe you once proudly told me, that I (which am by the law of this Land right<g ref="char:EOLhyphen"/>ly inveſted in my Pariſh Church, whereto you never had any title at all) was not called thither, either by God or Man, but that you were by both, whereby you have diſparaged my Mini<g ref="char:EOLhyphen"/>ſtery in the place where I live; I require you to give ſatisfaction to theſe particulars.</p>
+            <p n="1">1 Whether you can tell the ſecrets of the heart, and the preparations of the ſame, wherein doth con<g ref="char:EOLhyphen"/>ſiſt internall Vocation, which are known only to God; or whether can you be juſtified in judging them not to be at all, <hi>ubi non conſtat de malo;</hi> in both which you commit no ſmall ſin, but either againſt Chriſtian Charity, or of Arrogant preſumption.</p>
+            <p n="2">2 Whether do you hold our externall calling now practiſed in our Church to be unlawfull, a nor
+<pb n="14" facs="tcp:156340:8"/>coming in by the door as you call it; and ſo con<g ref="char:EOLhyphen"/>demne all the Miniſters thereof for Theeves and Robbers.</p>
+            <p n="3">3 Whether your firſt coming to be a Curate to this place, being by the commendations of one pri<g ref="char:EOLhyphen"/>vate man, your admiſſion by entreaty gained from the former Incumbent, your approbation gotten a<g ref="char:EOLhyphen"/>mong ſome Mechaniques only, ignorant and unlear<g ref="char:EOLhyphen"/>ned Tradeſmen. Women and Children, (there being divers, Gentlemen and Schollers in the Pariſh, whoſe conſent you neither have had, or muſt ever look to have hereafter) be either a ſufficient warrant for you to preſume your own calling is from God, or prove that you are lawfully called by the peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p n="6">6. Whether do you hold that there is any obedience for con<g ref="char:EOLhyphen"/>ſcience ſake due to the temporall Magiſtrate in matters Eccleſia<g ref="char:EOLhyphen"/>ſticall which tend only to the Ceremony of Religion, and are no wayes repugnant to the Word of God: if there be none, you deny the Kings Supremacy: if there be, why do all your Diſciples (whom you muſt either diſclaim being yours, or elſe learn another leſſon) pretend ſo much their conſcience againſt their obedience? either you muſt ſubſtantially prove them re<g ref="char:EOLhyphen"/>pugnant to the Word of God, or be reproved your ſelf for ſuffering ſo long their erroneous conſcience, in a matter of ſuch conſequence, as obedience is: And whereas you told me, that in all matters belonging, not only to the ſubſtance, but to the Ceremony of Gods Service, there muſt be an affirmative pre<g ref="char:EOLhyphen"/>cept immediately commanding them in Scripture, or that they are not to be admitted; It behoves you to cleer this neceſſary Queſtion; Whether things in their own nature indifferent may not be commanded by the Magiſtrate, and of neceſſary conſe<g ref="char:EOLhyphen"/>quence challenge, obedience for conſcience ſake, according to
+<pb n="15" facs="tcp:156340:8"/>the precept of the Apoſtle, <hi>Rom.</hi> 13.5. Which if you deny, you take away all power from the civill Magiſtrate, which can be only verſed about things indifferent (all things that are com<g ref="char:EOLhyphen"/>manded or forbidden in Scripture, being to be obeyed without any reſpect to the Magiſtrate at all, and immediately binding the conſcience:) if you confeſſe you ſhall make many return to their obedience, which ſtand at this time ſeduced from it; wherein you ſhall do God and your Countrey good ſervice, for from you they will ſooner receive ſatisfaction, of whom they have ſo good an opinion; or elſe you ſhall make them to forſake your ſociety as being your ſelf now, no Miniſter of faction, and declaring that ſuch which will not be ſatisfied, but perverſly ſtand out, are not worthy to retain any Communion with you; for in matter of ſuch importance, as you are to ſatisfie the weak, ſo you are to reject thoſe that are refractory, and wilfully contentious.</p>
+            <p>Laſtly, I do think it a work worthy ſuch a Miniſter of God as you would be, to declare openly unto the world, what that conſcience is, which is ſo much pretended againſt Obedience, and wherein it conſiſts, that we may know whether it be not falſe and erroneous; becauſe I finde the conſciences of others which are much better informed to make no ſuch ſcruples; which makes me think it may in many of them proceed <hi>ex ignorantia aut vitio;</hi> and alſo what that Idolatry is, with which they charge all outward ſervice of God, and lay horrible blaſphemous impu<g ref="char:EOLhyphen"/>tations upon the Church of <hi>England,</hi> which are not to be endu<g ref="char:EOLhyphen"/>red by any of her ſonnes. I do but deſire to know whether you be right in your determinations, that I may follow you alſo; or wrong that I may help to reſtore you: you, and I ſhall not be benefited alone, but many others ſhall be confirmed with us. Let not fear, nor favour, nor gain, which are by a true Miniſter, to be counted baſe reſpects, deterre you from this work; It will tend undoubtedly to Gods glory, to ſettle ſo many doubtings, which like furies walk up and down in ſo many of our breaſts; you cannot pretend your want of leaſure, ſince you have no cure of ſoules to attend unto. Wrong not your ſelf ſo much, as to refuſe it, there will many imputations lye upon you if you
+<pb n="16" facs="tcp:156340:9"/>do; and if you do it, whether well or ill, we ſhall be confirmed and a multitude of ſouls with us, either with you or againſt you; if the firſt, we ſhall return to unity; if the ſecond, we ſhall go on with conſtancy, with true faith to God, obedience to the Magiſtrate, and good conſcience towards all, which unfainedly deſireth to do</p>
+            <closer>
+               <signed>One that ſhould be Your Brother in Chriſt, <hi>James Wilcock.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
